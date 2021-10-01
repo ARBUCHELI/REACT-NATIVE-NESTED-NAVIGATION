@@ -1,4 +1,4 @@
-# Sample Snack app
+# React Native Nested Navigation
 
 Take a look to the live example here:
 
